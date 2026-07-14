@@ -1,151 +1,90 @@
-<div align="center">
+# Eli OUN
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eli+OUN+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer;I+teach+machines+to+see+%F0%9F%91%81%EF%B8%8F;...and+to+talk+%F0%9F%97%A3%EF%B8%8F;Published+researcher+%F0%9F%93%9C;Occasional+ethical+hacker+%F0%9F%94%90" alt="Typing SVG" />
+**Data Scientist & AI Engineer** — Computer Vision · LLM Systems · Applied Machine Learning
 
-<br/>
+MSc Data Science and Artificial Intelligence, Université Côte d'Azur — Nice, France
 
-🎓 MSc Data Science & AI @ Université Côte d'Azur &nbsp;•&nbsp; 📍 Nice, France 🇫🇷
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eliaoun0911-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliaoun0911)
-[![Email](https://img.shields.io/badge/Email-eli.nedal.oun%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eli.nedal.oun@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Elia0911&style=for-the-badge&color=36BCF7)](https://github.com/Elia0911)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eliaoun0911-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliaoun0911)
+[![Email](https://img.shields.io/badge/Email-eli.nedal.oun%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eli.nedal.oun@gmail.com)
 
 ---
 
-## 🚀 About Me
+## About
 
-```python
-class EliOun:
-    def __init__(self):
-        self.role       = "Data Scientist & AI Engineer"
-        self.education  = "MSc Data Science & AI @ Université Côte d'Azur 🇫🇷"
-        self.origin     = "Computer Engineering @ Tishreen University 🇸🇾"
-        self.languages  = ["English", "French", "Spanish", "Arabic"]
-        self.currently  = "Building AI systems for the auto industry @ Stellantis 🚗"
-        self.fun_fact   = "I co-founded Syria's first national robot competition 🤖"
+I am a computer engineer specializing in **computer vision** and **applied machine learning**, with a background spanning industrial AI systems, LLM-based applications, and data analytics. My work sits at the intersection of research and production: I have deployed deep learning models for automotive manufacturing, built retrieval-augmented generation pipelines for commercial products, and co-authored research on multimodal speech recognition.
 
-    def daily_fuel(self):
-        return ["☕ Coffee", "🧠 Deep Learning papers", "🐛 Debugging at 2am"]
-```
+I hold a Bachelor's degree in Computer Engineering and Automatic Control from Tishreen University and am currently completing my MSc in Data Science and Artificial Intelligence at Université Côte d'Azur. I work in English, French, Spanish, and Arabic.
 
-- 🔭 **Currently:** AI Systems & Analytics Intern @ **Stellantis** — predictive maintenance, computer vision for quality control & ADAS analytics
-- 🧠 **Previously:** Built **LLM intent-extraction & RAG pipelines** @ Smart Goldfish, full-stack Odoo/Python development @ Full Circle
-- 📜 **Published:** Multimodal radar-based speech recognition for the hearing impaired — with the University of Glasgow
-- 🏛️ **Fun project:** Taught YOLOv8 to read 18th-century French royal ordinances @ Sorbonne (87% precision!)
-- 🏆 **First Place** @ Ada Lovelace Hackathon &nbsp;•&nbsp; **Best AI Ethics** award @ Girls in AI Hackathon
-- 🔐 **Side quest:** IBM-certified Cybersecurity Analyst & pentester
+## Areas of Expertise
 
----
+**Computer Vision.** My core specialty. I have engineered vision systems across markedly different domains: automated quality control and defect detection on automotive assembly lines, object detection and OCR pipelines for historical document analysis (YOLOv8, Tesseract, EasyOCR), and real-time augmented reality applications combining OpenCV with Unity 3D. My experience covers the full lifecycle — dataset construction, model training and evaluation, and deployment under real-world constraints.
 
-## 🛠️ Tech Arsenal
+**AI/ML Engineering — LLMs & RAG.** I design and operate LLM-based systems in production settings: intent extraction and semantic parsing for user-facing applications, retrieval-augmented generation pipelines grounded in business knowledge, and automated deployment and evaluation of AI agents with measurable accuracy and satisfaction metrics. Toolchain: LangChain, LangSmith, vLLM, OpenAI APIs, Hugging Face Transformers.
 
-<div align="center">
+**Data Science & Analytics.** Large-scale exploratory data analysis (including driver behavior data informing ADAS feature development), predictive maintenance modeling with deep learning, and executive-facing BI dashboards for manufacturing KPIs and supply chain optimization (Power BI).
 
-### 🧠 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+**Cybersecurity.** IBM-certified Cybersecurity Analyst with hands-on penetration testing experience — a perspective I bring to building AI systems that are robust as well as accurate.
 
-### 🦜 LLM Engineering
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-4B8BBE?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge&logoColor=white)
+## Professional Experience
 
-### ⚙️ Backend & DevOps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+**AI Systems & Analytics Intern — Stellantis Auto SAS** · Montbéliard, France · 2026
+Developed deep learning models for predictive maintenance to reduce vehicle downtime and component failure; engineered computer vision algorithms for automated assembly line quality control and defect detection; built interactive BI dashboards for manufacturing KPIs and supply chain decisions; conducted large-scale EDA on driver behavior data to support ADAS feature development.
 
-### ☁️ Cloud & Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**AI Engineering Intern — Smart Goldfish** · Nice, France · 2025
+Built intent extraction and semantic parsing models using LLMs for cruise-related user queries; designed RAG pipelines to keep responses accurate and aligned with business knowledge; automated deployment and evaluation of AI agents, improving accuracy and user satisfaction metrics.
 
-</div>
+**Odoo Developer — Full Circle** · Remote (Oman) · 2023–2024
+Developed Python-based solutions to integrate and automate business processes; implemented machine learning for predictive analytics within the Odoo platform; processed large datasets to generate actionable insights; produced technical documentation supporting scalable, maintainable systems.
 
----
+**Earlier roles** — Chief Operating Officer & Lead Organizer, AI Club MENA (led the team that won **First Place** at the Ada Lovelace Hackathon and the **Best AI Ethics** award at the Girls in AI Hackathon); AI Instructor, SCS-Latakia; Robotics Club President, Tishreen University (spearheaded **RCC V1**, Syria's first national robot competition); Computer Vision Mentor, Tishreen University.
 
-## 📊 GitHub Stats
+## Selected Projects
+
+### Metadata Extraction from Historical Documents — Sorbonne University (2025)
+Designed dual pipelines to extract structured metadata (monarch names, places, dates) from 18th-century French royal ordinances. Combined an unsupervised OpenCV processing approach with supervised YOLOv8 object detection, and benchmarked OCR engines (Tesseract vs. EasyOCR). Achieved **87% precision** and a **17.3% word error rate** on degraded historical print.
+`YOLOv8` `OpenCV` `Tesseract` `EasyOCR` `Python`
+
+### Cyber-Bullying Detection on Social Media (2022)
+A comparative study of supervised learning approaches for hate speech detection, with a focus on the harder problem of distinguishing genuine hate speech from general profanity — a common failure mode of naive classifiers.
+`NLP` `Supervised Learning` `Python`
+
+### Augmented Reality Maze Solver (2021)
+A modern take on the classic Labyrinth game: the player holds a physical maze board under a webcam, and a vision pipeline detects the board, computes the solution path in real time, and renders it back through a Unity 3D interface.
+`OpenCV` `Unity 3D` `Pathfinding`
+
+## Research
+
+**Advancing Speech Recognition for the Hearing Impaired: A Multimodal Radar Approach in Healthcare** — with the James Watt School of Engineering, University of Glasgow. The work develops radar-enhanced multimodal speech recognition combining radar, audio, and visual inputs to substantially improve recognition for individuals with hearing impairments in challenging healthcare environments.
+
+## Technical Skills
+
+| Domain | Tools & Technologies |
+|---|---|
+| **Computer Vision** | OpenCV, YOLO, image processing, OCR (Tesseract, EasyOCR) |
+| **Deep Learning** | PyTorch, TensorFlow, Keras, Hugging Face Transformers |
+| **LLM Engineering** | LangChain, LangSmith, vLLM, RAG, OpenAI APIs |
+| **Languages & Backend** | Python, C++, SQL, FastAPI, Django |
+| **Data & BI** | Power BI, data mining, Matlab, web scraping (Selenium) |
+| **Cloud & DevOps** | AWS, GCP, Azure, Docker, CI/CD |
+| **Databases** | PostgreSQL, MongoDB |
+| **Robotics & Embedded** | ROS, Raspberry Pi |
+
+## Certifications
+
+- **IBM** — Cybersecurity Analyst Professional Certificate
+- **IBM** — Machine Learning with Python
+- **DeepLearning.AI** — AI for Medicine Specialization
+- **DeepLearning.AI** — Natural Language Processing Specialization
+
+## GitHub Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Elia0911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elia0911&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elia0911&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elia0911&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Elia0911&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🌟 Featured Work
-
-| Project | What it does | Tech |
-|---|---|---|
-| 📜 **Historical Metadata Extraction** *(Sorbonne)* | Dual pipelines extracting kings' names, places & dates from 18th-century French ordinances — 87% precision, 17.3% WER | `YOLOv8` `OpenCV` `Tesseract` `EasyOCR` |
-| 🛡️ **Cyber-Bullying Detection** | Detects hate speech on social media while distinguishing it from general profanity — comparative study of supervised algorithms | `NLP` `Scikit-learn` `Python` |
-| 🌀 **AR Maze Solver** | Hold a physical labyrinth under a webcam and watch AI solve it in real time | `OpenCV` `Unity 3D` `C#` |
-| 📡 **Radar Speech Recognition** *(Publication, Univ. of Glasgow)* | Multimodal radar + audio + visual speech recognition for the hearing impaired in healthcare settings | `Deep Learning` `Signal Processing` |
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-![IBM](https://img.shields.io/badge/IBM-Cybersecurity_Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Machine_Learning_with_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-AI_for_Medicine-EA4335?style=for-the-badge&logoColor=white)
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-NLP_Specialization-EA4335?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 🐍 Watch the snake eat my contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Elia0911/Elia0911/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Elia0911&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elia0911&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
 </div>
 
 ---
 
 <div align="center">
-
-### 💬 Let's talk AI, computer vision, or why your RAG pipeline is hallucinating
-
-*"First rule of machine learning: garbage in, garbage out. Second rule: it's always the data."*
-
-⭐ **From Nice with 🧠 — Eli OUN**
-
+<sub>📍 Nice, France · English · Français · Español · العربية</sub>
 </div>
